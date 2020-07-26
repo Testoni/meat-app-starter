@@ -1,11 +1,5 @@
 # Meat - Angular App Starter
 
-## 1. Passos para começar
-
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
-
 ### Instalando as Dependências
 
 `npm install`
@@ -86,7 +80,7 @@ Dependências dos pacotes que devem ficar em package.json:
   }
 ```
 
-## Upgrade para Angular 6 (Apenas para a aulas finais)
+## Upgrade para Angular 6
 
 Dependências dos pacotes que devem ficar em package.json:
 
@@ -141,7 +135,3 @@ Dependências dos pacotes que devem ficar em package.json:
     "webdriver-manager": "12.0.6"
   }
 ```
-
-## Créditos
-
-Todas as imagens usadas na aplicação são pertencentes a freepik.com
